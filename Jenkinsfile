@@ -1,3 +1,4 @@
+currentBuild.displayName = "servletapp-#"+currentBuild.number
 pipeline{
     agent any 
     stages{
